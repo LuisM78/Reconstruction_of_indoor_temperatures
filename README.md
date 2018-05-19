@@ -5,10 +5,11 @@ Reconstruction of the indoor temperature dataset of a house using data driven mo
 Luis M Candanedo, Veronique Feldheim, Dominique Deramaix
 Building and Environment 138, 2018, 250-261
 
-Here you will find
+Here you will find:
 
-* The scripts to reproduce exploratory figures.
-* The scripts for model training.
+* The data set used in the paper.
+* The R commands to reproduce exploratory figures.
+* The R scripts for model training.
 * The commands for model testing.
 * Also note that when training and testing the models you have to use the seed command to ensure reproducibility. There may be small variations in the reported results due to different training and testing splits and because of the random forest model.
 
