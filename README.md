@@ -1,7 +1,7 @@
 # Reconstruction_of_indoor_temperatures
 Data sets and scripts for the publication:
 
-Reconstruction of the indoor temperature dataset of a house using data driven models for performance evaluation. 
+Reconstruction of the indoor temperature dataset of a house using data driven models for performance evaluation.
 Luis M Candanedo, Veronique Feldheim, Dominique Deramaix
 Building and Environment 138, 2018, 250-261
 
