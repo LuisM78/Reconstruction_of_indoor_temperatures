@@ -5,8 +5,9 @@ Reconstruction of the indoor temperature dataset of a house using data driven mo
 
 Here you will find:
 
-* The data set used in the paper.
+* The data set used in the paper. You just need to unzip the file.
 * The R commands to reproduce exploratory figures.
+* Some of the figures of the paper.
 * The R scripts for model training.
 * The commands for model testing.
 * Also note that when training and testing the models you have to use the seed command to ensure reproducibility. There may be small variations in the reported results due to different training and testing splits and because of the random forest model.
