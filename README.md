@@ -10,7 +10,7 @@ Here you will find
 * The scripts to reproduce exploratory figures.
 * The scripts for model training.
 * The commands for model testing.
-*  Also note that when training and testing the models you have to use the seed command to ensure reproducibility. There may be small variations in the reported accuracy due to different training and testing splits and because of the random forest model.
+* Also note that when training and testing the models you have to use the seed command to ensure reproducibility. There may be small variations in the reported results due to different training and testing splits and because of the random forest model.
 
 Please read the commented lines in the model development file. Install all the packages dependencies before trying to train and test the models.
 
